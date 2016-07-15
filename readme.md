@@ -76,6 +76,9 @@
 * Setup openssh-server
 * Setup git
 * Create git repositry on /etc/
+* Setup curl
+* Setup wget
+* Setup lynx
 * Setup zsh
 * Setup vim
 * Setup sudo
